@@ -4,14 +4,13 @@ A XGBRegression based model for predicting price of house based on trained datas
 
 
 ## HeatMap for Correlation between data columns
-![download](https://user-images.githubusercontent.com/78251168/209462738-ee0939da-7332-4cb5-a111-62e9aa8ed519.png)
+![download](https://user-images.githubusercontent.com/78251168/209462838-3b491baa-a2d9-40d2-b106-3cd81e63ac6c.jpg)
 
 
 ## Visualizing Traning data prediction
-
-![download (1)](https://user-images.githubusercontent.com/78251168/209462742-91b480ec-18be-4a9b-8331-0fdec6f7d981.png)
+![download (1)](https://user-images.githubusercontent.com/78251168/209462839-9a96c8f5-3f32-4a44-bd11-f3342a74e3e3.jpg)
 
 
 ## VIsualizing Test data prediction
+![download (2)](https://user-images.githubusercontent.com/78251168/209462842-f2208187-84ae-4ab9-99a9-78f700795a97.jpg)
 
-![download (2)](https://user-images.githubusercontent.com/78251168/209462754-a0975aa3-1606-4d18-9784-1ddf231e7337.png)
